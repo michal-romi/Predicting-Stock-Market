@@ -1,2 +1,2 @@
 # Predicting-Stock-Market
-It's a simple model using Linear Regression Algorithm on S&amp;P500 a stock market index.
+Applying the Linear Regression Algorithm to predict the Closing price of stock in ` S&P500` stock market index dataset from `1950` to `2015`.

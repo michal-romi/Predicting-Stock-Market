@@ -4,4 +4,5 @@
 
 Applying the Linear Regression Algorithm to predict the Closing price of stock in ` S&P500` stock market index dataset from year `1950` to `2015`.
 <br/>
-For more info take a look into `.ipynb` file.
+<br/>
+For more infomation take a look into `.ipynb` file.
